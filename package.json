@@ -1,0 +1,11 @@
+{
+  "name": "dsaalgo.js",
+  "version": "1.0.0",
+  "description": "An node package manager help to use ds and algo in your next project implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prabhat Yadav",
+  "license": "ISC"
+}
