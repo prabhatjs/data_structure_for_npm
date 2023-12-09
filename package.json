@@ -1,10 +1,15 @@
 {
   "name": "dsaalgo.js",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "An node package manager help to use ds and algo in your next project implementation.",
   "main": "index.js",
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/prabhatjs/data_structure_for_npm"
   },
   "author": "Prabhat Yadav",
   "license": "ISC"
